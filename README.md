@@ -1,4 +1,4 @@
-📘 Cartoonify Images Using Python & OpenCV
+# Cartoonify Images Using Python & OpenCV
 
 Transform ordinary images into cartoon-style artwork using Python, OpenCV, and image processing techniques.
 This project provides a simple GUI-based tool to upload an image and instantly convert it into a cartoon version.
