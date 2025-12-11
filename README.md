@@ -67,7 +67,8 @@ GUI will open → Click Upload Image → Choose an image → Cartoon version app
 Original	Cartoonified
 <img src="images/original.jpg" width="250">	<img src="images/cartoon.jpg" width="250">
 
-(Add your own samples here)
+<img width="1920" height="1017" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e66119bd-ccfc-45ff-8ff4-395c78f02e08" />
+
 
 # Contributing
 
