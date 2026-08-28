@@ -70,7 +70,4 @@ Original	Cartoonified
 <img width="1920" height="1017" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e66119bd-ccfc-45ff-8ff4-395c78f02e08" />
 
 
-# Contributing
 
-Pull requests are welcome!
-If you’d like to improve the GUI or add new filters, feel free to contribute.
